@@ -12,4 +12,4 @@ VS2019 + WPF + .NET Framework 4
 3.等待进度条完成后即可在【目标文件夹】中获取提取到的文件
 
 # 各版本产物下载地址
-[FileComparisonTool_v1.0.0.0](/Product/FileComparisonTool_v1.0.0.0.zip)  
+[FileComparisonTool_v1.0.0.0](https://github.com/LiuChenShare/FileComparisonTool/releases/download/v1.0.0.0/FileComparisonTool_v1.0.0.0.zip)  
