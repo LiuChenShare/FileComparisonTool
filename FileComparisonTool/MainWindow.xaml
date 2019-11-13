@@ -20,17 +20,17 @@
             <Grid Grid.Row="0">
                 <Label HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="30" Content="请选择原始文件夹" FontSize="16" FontWeight="Bold" Width="194"/>
                 <Button x:Name="button1" Content="选择" HorizontalAlignment="Left" Margin="36,65,0,0" VerticalAlignment="Top" Width="75" Height="64" FontSize="16" Click="button2_Click"/>
-                <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center" Text="E:\审讯\GIT\ISNClient\ISN.Views\bin\ISN_CLIENT_1.3.4BUILD1043"/>
+                <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
             </Grid>
             <Grid Grid.Row="1">
                 <Label HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="30" Content="请选择最新文件夹" FontSize="16" FontWeight="Bold" Width="194"/>
                 <Button x:Name="button2" Content="选择" HorizontalAlignment="Left" Margin="36,65,0,0" VerticalAlignment="Top" Width="75" Height="64" FontSize="16" Click="button2_Click"/>
-                <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center" Text="E:\审讯\GIT\ISNClient\ISN.Views\bin\ISN_CLIENT_1.3.4BUILD1045"/>
+                <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
             </Grid>
             <Grid Grid.Row="2">
                 <Label HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="30" Content="请选择目标文件夹" FontSize="16" FontWeight="Bold" Width="194"/>
                 <Button x:Name="button3" Content="选择" HorizontalAlignment="Left" Margin="36,65,0,0" VerticalAlignment="Top" Width="75" Height="64" FontSize="16" Click="button2_Click"/>
-                <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center" Text="E:\审讯\GIT\ISNClient\ISN.Views\bin\ISN_CLIENT_1.3.4BUILD1045增量2"/>
+                <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="64" Margin="137,65,0,0" TextWrapping="Wrap" Width="245" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
             </Grid>
         </Grid>
         <Grid Grid.Column="1" Grid.Row="0">
